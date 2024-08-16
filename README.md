@@ -42,35 +42,36 @@ s.n. dasgupta
 ### Display the content of the files
 cat < file1
 ## OUTPUT
+```
 chanchal singhvi
 c.k. shukla
 s.n. dasgupta
 sumit chakrobarty
 
-
+```
 cat < file2
 ## OUTPUT
-anil aggarwal
+```anil aggarwal
 barun sengupta
 c.k. shukla
 lalit chowdury
 s.n. dasgupta
 
-
+```
 # Comparing Files
 cmp file1 file2
 ## OUTPUT
 file1 file2 differ: char1,line1
 comm file1 file2
  ## OUTPUT
- anil aggarwal
+``` anil aggarwal
       barun sengupta
       c.k. shukla
 chanchal singhvi
 c.k. shukla
         lalit chowdury
                 s.n. dasgupta
-
+```
  
 diff file1 file2
 ## OUTPUT

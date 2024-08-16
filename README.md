@@ -51,7 +51,8 @@ sumit chakrobarty
 ```
 cat < file2
 ## OUTPUT
-```anil aggarwal
+```
+anil aggarwal
 barun sengupta
 c.k. shukla
 lalit chowdury
